@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>体育投注APP-注册下载</title>
+<style>
+  body {font-family: "微软雅黑", sans-serif; margin:0; padding:0; background:#fff; color:#222;}
+  header {background:#d32f2f; color:#fff; text-align:center; padding:40px 20px;}
+  header h1 {font-size:2.4em; margin-bottom:0.3em;}
+  header p {font-size:1.1em;}
+  section {padding:20px; max-width:600px; margin: auto;}
+  .features, .games, .testimonials {margin-top:30px;}
+  .features ul, .games ul {list-style:none; padding:0;}
+  .features li, .games li {background:#f9f9f9; margin-bottom:12px; padding:12px 16px; border-radius:6px; font-size:1em;}
+  .games img {width:50px; height:50px; vertical-align: middle; margin-right: 12px;}
+  .testimonials blockquote {background:#f1f1f1; border-left:5px solid #d32f2f; margin:15px 0; padding:15px 20px; font-style: italic;}
+  .btn-download {display:block; background:#d32f2f; color:#fff; text-align:center; font-size:1.4em; padding:15px; border-radius:8px; text-decoration:none; margin:30px auto; width:80%;}
+  .btn-download:hover {background:#b02727;}
+  .qr-code {text-align:center; margin-top:20px;}
+  .qr-code img {width:150px; height:150px;}
+  footer {font-size:0.8em; color:#666; text-align:center; padding:20px 0;}
+</style>
+</head>
+<body>
+
+<header>
+  <h1>专业体育投注APP</h1>
+  <p>免费推荐竞彩足球、NBA及热门电竞赛事，助你稳操胜券！</p>
+</header>
+
+<section class="features">
+  <h2>核心玩法推荐</h2>
+  <ul>
+    <li>胜平负投注 - 简单直观，乐趣无限</li>
+    <li>让球盘 - 挑战高赔率，赢更多</li>
+    <li>大小球 - 玩法多样，灵活多变</li>
+    <li>串关玩法 - 多场赛事组合，奖金翻倍</li>
+  </ul>
+</section>
+
+<section class="games">
+  <h2>热门赛事覆盖</h2>
+  <ul>
+    <li><img src="https://img.icons8.com/color/48/000000/soccer-ball.png" alt="竞彩足球"/>竞彩足球</li>
+    <li><img src="https://img.icons8.com/color/48/000000/basketball.png" alt="NBA"/>NBA篮球</li>
+    <li><img src="https://img.icons8.com/color/48/000000/league-of-legends.png" alt="英雄联盟"/>英雄联盟</li>
+    <li><img src="https://img.icons8.com/color/48/000000/cs-go.png" alt="CS:GO"/>CS:GO</li>
+    <li><img src="https://img.icons8.com/color/48/000000/dota-2.png" alt="刀塔"/>刀塔2</li>
+  </ul>
+</section>
+
+<section class="testimonials">
+  <h2>用户晒单反馈</h2>
+  <blockquote>“跟着推荐，连续5天红单，账户翻倍了！” — 小李</blockquote>
+  <blockquote>“投注简单，数据精准，朋友都推荐我用这个APP！” — 小王</blockquote>
+</section>
+
+<a href="https://www.gfty2.app:30892/?i_code=3210467" class="btn-download" target="_blank" rel="noopener noreferrer">立即注册下载APP</a>
+
+<div class="qr-code">
+  <p>扫码下载APP</p>
+  <img src="https://yourdomain.com/qr-code.png" alt="APP下载二维码" />
+</div>
+
+<footer>
+  <p>本APP正规合法，数据仅供参考，理性投注，快乐购彩！</p>
+</footer>
+
+</body>
+</html>
